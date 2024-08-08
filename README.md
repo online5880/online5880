@@ -1,6 +1,7 @@
 👋
 
 🌱 I’m currently learning ...
+
 🇰🇷 I'm working in South Korea
 
 ## 🛠️ Tech Stack
