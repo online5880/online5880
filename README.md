@@ -1,15 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello&fontSize=90)
 
-# 👋 안녕하세요!
+# 👋 안녕하세요! `배움`에 감사함을 느끼는 mane 입니다.
 
-🇰🇷 I'm working in South Korea
+🇰🇷 in South Korea
+
+새로운 것을 배울 수 있다는 것은 제 삶의 가장 큰 행복입니다. 🌱
+
+매일 아주 사소한거라도 하나하나 깨달으며 성장해 나가는 과정이 즐겁습니다. 📚
+
+그리고 이러한 배움 속에서 얻는 모든 경험은 저를 더 나은 사람으로 만들어줍니다. 🧑🏻‍💻
+
 
 ## 📚 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> Python
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> SQL
-  <img src="https://img.shields.io/badge/Basic%20Algebra-000000?style=flat-square&logo=mathworks&logoColor=white"/> Basic Algebra
-  <img src="https://img.shields.io/badge/Statistics-000000?style=flat-square&logo=gnu%20R&logoColor=white"/> Statistics
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> Python <br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> SQL <br>
+  <img src="https://img.shields.io/badge/Basic%20Algebra-000000?style=flat-square&logo=mathworks&logoColor=white"/> Basic Algebra <br>
+  <img src="https://img.shields.io/badge/Statistics-000000?style=flat-square&logo=gnu%20R&logoColor=white"/> Statistics <br>
   <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=flat-square&logo=google%20analytics&logoColor=white"/> Data Analysis
 </p>
 
@@ -49,15 +56,26 @@
   <img src="https://img.shields.io/badge/TablePlus-000000?style=flat-square&logo=tableplus&logoColor=white"/>
 </p>
 
+---
+
 ## 📫 How to reach me
-<p align="center">
-  <a href="mailto:gjtjqkr5880@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@mane588">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:gjtjqkr5880@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/><br>
+        Gmail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@mane588">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/><br>
+        YouTube
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 📄 Blogs
 <table align="center">
@@ -95,6 +113,6 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonline5880&count_bg=%235D6657&title_bg=%23555555&icon=unrealengine.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonline5880&count_bg=%235D6657&title_bg=%23555555&icon=data&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
   </a>
 </p>
