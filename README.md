@@ -37,8 +37,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
+
 
 ---
 
