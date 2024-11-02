@@ -88,7 +88,7 @@
 ## 📄 Blogs
 <table align="center">
   <tr>
-    <th>Data Analysis</th>
+    <th>Data</th>
     <th>Unreal Engine</th>
   </tr>
   <tr>
