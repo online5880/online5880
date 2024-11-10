@@ -4,21 +4,25 @@
 
 🇰🇷 in South Korea
 
-새로운 것을 배울 수 있다는 것은 제 삶의 가장 큰 행복입니다. 🌱
+새로운 것을 배울 수 있다는 것은 제 삶의 가장 큰 행복입니다. 🌱  
 
-매일 아주 사소한거라도 하나하나 깨달으며 성장해 나가는 과정이 즐겁습니다. 📚
+매일 아주 사소한 거라도 하나하나 깨달으며 성장해 나가는 과정이 즐겁습니다. 📚  
 
 그리고 이러한 배움 속에서 얻는 모든 경험은 저를 더 나은 사람으로 만들어줍니다. 🧑🏻‍💻
 
+---
 
 ## 📚 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> Python <br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> SQL <br>
-  <img src="https://img.shields.io/badge/Basic%20Algebra-000000?style=flat-square&logo=mathworks&logoColor=white"/> Basic Algebra <br>
-  <img src="https://img.shields.io/badge/Statistics-000000?style=flat-square&logo=gnu%20R&logoColor=white"/> Statistics <br>
-  <img src="https://img.shields.io/badge/Data%20Analysis-000000?style=flat-square&logo=google%20analytics&logoColor=white"/> Data Analysis
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=researchgate&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/RESTful%20API-000000?style=flat-square&logo=api&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,8 +34,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 ### Frameworks / Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
@@ -40,15 +42,12 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD800?style=flat-square&logo=hugging-face&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white"/>
 </p>
-
-
-
----
 
 ### Tools
 <p align="center">
@@ -84,6 +83,7 @@
   </tr>
 </table>
 
+---
 
 ## 📄 Blogs
 <table align="center">
@@ -106,6 +106,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <p align="center">
   <a href="https://github.com/online5880/github-readme-stats">
