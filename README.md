@@ -65,50 +65,50 @@
 ---
 
 ## 📫 How to Reach Me & 📄 Blogs
+
 <table align="center">
   <tr>
     <td align="center">
       <a href="mailto:gjtjqkr5880@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/><br>
         Gmail
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@mane588">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/><br>
         YouTube
       </a>
     </td>
     <td align="center">
       <a href="https://mane-datalab.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><br>
-        Mane Lab
+        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/><br>
+        mane lab
       </a>
     </td>
     <td align="center">
       <a href="https://online-unreal.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/><br>
         Unreal Engine Blog
       </a>
     </td>
   </tr>
 </table>
 
-
 ---
-</div>
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/online5880/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=online5880&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="34%" />
-  </a>    
-  <a href="https://github.com/online5880/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=online5880&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=online5880&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="34%" />
   </a>
-</p>
+  <a href="https://github.com/online5880/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=online5880&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="60%"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/online5880" width="95%" />
-</a>
-
+  </a>
+</div>
 
