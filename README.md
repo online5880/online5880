@@ -17,46 +17,50 @@
 
 
 ## 📚 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=researchgate&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/RESTful%20API-000000?style=flat-square&logo=api&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Badge">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
+    <img src="https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white" alt="CI/CD Badge">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
+    <img src="https://img.shields.io/badge/Networking-0096D6?style=flat&logo=windows&logoColor=white" alt="Networking Badge">
+</div>
+
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Badge"/>
+</div>
 
 ### Frameworks / Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD800?style=flat-square&logo=hugging-face&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white" alt="Unreal Engine Badge"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD800?style=flat&logo=hugging-face&logoColor=black" alt="Hugging Face Badge"/>
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain Badge"/>
+</div>
 
 ### Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TablePlus-000000?style=flat-square&logo=tableplus&logoColor=white"/>
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white" alt="Gitea Badge"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack Badge"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Badge"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira Badge"/>
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree Badge"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence Badge"/>
+</div>
+
 
 ---
 
