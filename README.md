@@ -32,24 +32,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
+---
+
+### **Languages**
 <div align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Badge"/>
 </div>
 
-### Frameworks / Libraries
+---
+
+### **Frameworks / Libraries**
 <div align="center">
     <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white" alt="Unreal Engine Badge"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD800?style=flat&logo=hugging-face&logoColor=black" alt="Hugging Face Badge"/>
     <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain Badge"/>
 </div>
 
-### Tools
+---
+
+### **Tools**
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -59,6 +66,17 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira Badge"/>
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree Badge"/>
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence Badge"/>
+</div>
+
+---
+
+### **DevOps / CI/CD**
+<div align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx Badge"/>
+    <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white" alt="Amazon ECS Badge"/>
+    <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat&logo=amazon-ecr&logoColor=white" alt="Amazon ECR Badge"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
 </div>
 
 
