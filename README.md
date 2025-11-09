@@ -25,12 +25,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://mane-datalab.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/><br>
-        mane lab
-      </a>
-    </td>
-    <td align="center">
       <a href="https://online-unreal.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/><br>
         Unreal Engine Blog
