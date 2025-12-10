@@ -36,17 +36,24 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/online5880/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=online5880&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="34%" />
+
+  <a href="https://github.com/online5880/github-readme-activity-graph" style="display:inline-block;">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=online5880&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF"
+      width="50%"
+    />
   </a>
-  <a href="https://github.com/online5880/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=online5880&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="60%"/>
+
+  <a href="https://github.com/devxb/gitanimals" style="display:inline-block;">
+    <img
+      src="https://render.gitanimals.org/farms/online5880"
+      width="35%"
+    />
   </a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img alt="docs/sample.svg" src="https://render.gitanimals.org/farms/online5880" width="95%" />
-  </a>
+
+
 </div>
 
